@@ -3,7 +3,7 @@
 This repository has been created for AUGMENTED AND VIRTUAL REALITY course. Our Project is about "Comparison of user behaviour analysis software"
 
 - Under the supervision of Matteo Scaramuzzino
-- [Authors](AUTHORS.md)
+- [Authors](Authors.md)
 
 Our objective will be to analyse different software that deals with recording user behaviour and actions within a VR Unreal Engine project, evaluating the pros and cons of the various software. 
 
