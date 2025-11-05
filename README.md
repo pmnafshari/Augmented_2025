@@ -11,16 +11,16 @@ Our objective will be to analyse different software that deals with recording us
 
 ## Part 1: What do we need to analyse?
 
--Where and under what conditions framerate drops occur.<br>
--Collisions on the route, any passing difficulties, and problems following the route.<br>
--What are the most visited and least visited places on the map?<br>
--How much time users spend in the various levels?<br>
--How much time users spend in the tutorial, and how many people use it?<br>
--How many users finish the tutorial, and where they stop?<br>
--If the software is compatible with virtual reality projects?<br>
+- Where and under what conditions framerate drops occur.<br>
+- Collisions on the route, any passing difficulties, and problems following the route.<br>
+- What are the most visited and least visited places on the map?<br>
+- How much time users spend in the various levels?<br>
+- How much time users spend in the tutorial, and how many people use it?<br>
+- How many users finish the tutorial, and where they stop?<br>
+- If the software is compatible with virtual reality projects?<br>
 
 ## Part 2: Softwares
 - GameAnalytics UE SDK &emsp;[Read more]([src/main/README.md](https://docs.gameanalytics.com/event-tracking-and-integrations/sdks-and-collection-api/sdks-overview/))<br>
-- Azure PlayFab Telemetry &emsp;[Read more](src/main/README.md)<br>
-- Amplitude Unreal SDK &emsp;[Read more](src/main/README.md)<br>
-- Google Analytics (UE plugin) &emsp;[Read more](src/main/README.md)<br>
+- Azure PlayFab Telemetry &emsp;[Read more](https://azure.microsoft.com/en-gb)<br>
+- Amplitude Unreal SDK &emsp;[Read more](https://amplitude.com/docs/sdks/analytics/unreal/unreal-sdk)<br>
+- Google Analytics (UE plugin) &emsp;[Read more]([src/main/README.md](https://developers.google.com/analytics))<br>
