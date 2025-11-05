@@ -20,7 +20,7 @@ Our objective will be to analyse different software that deals with recording us
 - If the software is compatible with virtual reality projects?<br>
 
 ## Part 2: Softwares
-- GameAnalytics UE SDK &emsp;[Read more]([src/main/README.md](https://docs.gameanalytics.com/event-tracking-and-integrations/sdks-and-collection-api/sdks-overview/))<br>
+- GameAnalytics UE SDK &emsp;[Read more](https://docs.gameanalytics.com/event-tracking-and-integrations/sdks-and-collection-api/sdks-overview/)<br>
 - Azure PlayFab Telemetry &emsp;[Read more](https://azure.microsoft.com/en-gb)<br>
 - Amplitude Unreal SDK &emsp;[Read more](https://amplitude.com/docs/sdks/analytics/unreal/unreal-sdk)<br>
 - Google Analytics (UE plugin) &emsp;[Read more]([src/main/README.md](https://developers.google.com/analytics))<br>
